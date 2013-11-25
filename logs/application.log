@@ -1,0 +1,12 @@
+2013-11-25 10:17:22,559 - [INFO] - from play in main 
+Listening for HTTP on /0.0.0.0:9000
+
+2013-11-25 10:17:31,494 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2013-11-25 11:18:23,398 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2013-11-25 11:20:22,445 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+

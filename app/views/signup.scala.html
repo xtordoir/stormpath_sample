@@ -1,0 +1,24 @@
+@(signupForm: Form[Signup])(implicit flash: Flash)
+@import views.html.helper._
+@implicitField = @{ FieldConstructor(field.f) }
+
+@main("Signup")(false) {
+  
+  <form method="POST">
+    <h2>Sign up!</h2>
+    @flash.get("error").map { msg =>
+        <div style="color: #FF0000">@msg</div>
+    }
+    @inputText(signupForm("firstname"), '_label -> "Firstname")
+    @inputText(signupForm("lastname"), '_label -> "Lastname")
+    @inputText(signupForm("email"), '_label -> "email")
+    @if(signupForm.errors("password")) {
+    	<div style="color: #FF0000">@signupForm.errors("password").head.message</div>
+    }
+    @inputPassword(signupForm("password.main"), '_label -> "Password")
+    @inputPassword(signupForm("password.confirm"), '_label -> "Confirm password")
+		<button type="submit">Sign up</button>
+    <button type="reset">cancel</button>
+  </form>
+  <p><a href="/login">login</a></p>
+}

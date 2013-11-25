@@ -1,0 +1,60 @@
+[0m[[0minfo[0m] [0mUpdating {file:/Users/mac/projects/play/stormpath_sample/}stormpath_sample...[0m
+[0m[[0minfo[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/play/play_2.10/2.1.3/play_2.10-2.1.3.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] play#play_2.10;2.1.3!play_2.10.jar (5912ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/play/play-jdbc_2.10/2.1.3/play-jdbc_2.10-2.1.3.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] play#play-jdbc_2.10;2.1.3!play-jdbc_2.10.jar (1377ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/play/anorm_2.10/2.1.3/anorm_2.10-2.1.3.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] play#anorm_2.10;2.1.3!anorm_2.10.jar (1311ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/stormpath/sdk/stormpath-sdk-api/0.8.0/stormpath-sdk-api-0.8.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.stormpath.sdk#stormpath-sdk-api;0.8.0!stormpath-sdk-api.jar (830ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/stormpath/sdk/stormpath-sdk-httpclient/0.8.0/stormpath-sdk-httpclient-0.8.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.stormpath.sdk#stormpath-sdk-httpclient;0.8.0!stormpath-sdk-httpclient.jar (394ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/play/templates_2.10/2.1.3/templates_2.10-2.1.3.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] play#templates_2.10;2.1.3!templates_2.10.jar (689ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/play/play-iteratees_2.10/2.1.3/play-iteratees_2.10-2.1.3.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] play#play-iteratees_2.10;2.1.3!play-iteratees_2.10.jar (1894ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/com/typesafe/netty/netty-http-pipelining/1.1.1/netty-http-pipelining-1.1.1.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.netty#netty-http-pipelining;1.1.1!netty-http-pipelining.jar (706ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.1.0/akka-actor_2.10-2.1.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.10;2.1.0!akka-actor_2.10.jar(bundle) (1187ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/play/play-java_2.10/2.1.3/play-java_2.10-2.1.3.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] play#play-java_2.10;2.1.3!play-java_2.10.jar (1227ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/jolbox/bonecp/0.7.1.RELEASE/bonecp-0.7.1.RELEASE.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.jolbox#bonecp;0.7.1.RELEASE!bonecp.jar(bundle) (255ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/tyrex/tyrex/1.0.1/tyrex-1.0.1.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] tyrex#tyrex;1.0.1!tyrex.jar (245ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/yaml/snakeyaml/1.10/snakeyaml-1.10.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.yaml#snakeyaml;1.10!snakeyaml.jar(bundle) (313ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/hibernate/hibernate-validator/4.3.0.Final/hibernate-validator-4.3.0.Final.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.hibernate#hibernate-validator;4.3.0.Final!hibernate-validator.jar (479ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/springframework/spring-context/3.1.2.RELEASE/spring-context-3.1.2.RELEASE.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.springframework#spring-context;3.1.2.RELEASE!spring-context.jar (621ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/springframework/spring-core/3.1.2.RELEASE/spring-core-3.1.2.RELEASE.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.springframework#spring-core;3.1.2.RELEASE!spring-core.jar (468ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/springframework/spring-beans/3.1.2.RELEASE/spring-beans-3.1.2.RELEASE.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.springframework#spring-beans;3.1.2.RELEASE!spring-beans.jar (474ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/google/guava/guava/13.0.1/guava-13.0.1.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.google.guava#guava;13.0.1!guava.jar (1210ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.google.code.findbugs#jsr305;2.0.1!jsr305.jar (127ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] javax.servlet#javax.servlet-api;3.0.1!javax.servlet-api.jar (177ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] javax.validation#validation-api;1.0.0.GA!validation-api.jar (147ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/jboss/logging/jboss-logging/3.1.0.CR2/jboss-logging-3.1.0.CR2.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.jboss.logging#jboss-logging;3.1.0.CR2!jboss-logging.jar (152ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/stormpath/sdk/stormpath-sdk-impl/0.8.0/stormpath-sdk-impl-0.8.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.stormpath.sdk#stormpath-sdk-impl;0.8.0!stormpath-sdk-impl.jar (477ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.2.2/httpclient-4.2.2.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpclient;4.2.2!httpclient.jar (365ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.11/jackson-mapper-asl-1.9.11.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.codehaus.jackson#jackson-mapper-asl;1.9.11!jackson-mapper-asl.jar (729ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.11/jackson-core-asl-1.9.11.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.codehaus.jackson#jackson-core-asl;1.9.11!jackson-core-asl.jar (268ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.2.2/httpcore-4.2.2.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpcore;4.2.2!httpcore.jar (254ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/play/play-test_2.10/2.1.3/play-test_2.10-2.1.3.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] play#play-test_2.10;2.1.3!play-test_2.10.jar (1241ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/novocode/junit-interface/0.10/junit-interface-0.10.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.novocode#junit-interface;0.10!junit-interface.jar (119ms)[0m
+[0m[[0minfo[0m] [0mDone updating.[0m

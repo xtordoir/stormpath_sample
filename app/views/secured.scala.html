@@ -1,0 +1,20 @@
+@(message: String)(isLogged: Boolean)(implicit flash: Flash)
+
+@main("Welcome ...")(isLogged) {
+    <h2>Welcome to a protected page ...</h2>
+    @flash.get("success").map { msg =>
+        <div style="color: #00FF00">@msg</div>
+    }
+    @flash.get("error").map { msg =>
+        <div style="color: #FF0000">@msg</div>
+    }
+
+    @if(isLogged) {
+    	<p>Looks like you are logged !</p>
+    	<p><a href="/logout">logout</a></p>
+	} else {
+		<p>Welcome, want to see more?</p>
+    	<p><a href="/login">login</a></p>
+    	<p><a href="/signup">signup</a></p>
+	}
+}
