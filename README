@@ -14,7 +14,7 @@ What is missing:
 
 The stormpath libraries are wired as dependencies, see project/Build.scala
 
-The stormpath client is configured is a GlobalSetting object: Global.scala
+The stormpath client is configured in a GlobalSetting object: Global.scala
 
 The API keys and application, directory ids must be stored in files in the $HOME/.stormpath/ directory.
 
