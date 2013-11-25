@@ -1,4 +1,20 @@
-This is your new Play 2.1 application
-=====================================
+This is a Play 2.1 application using Stormpath for authentication
+=================================================================
 
-This file will be packaged with your application, when using `play dist`.
+Featured in this application are:
+
+- User login
+- User signup, including email verification workflow
+
+What is missing:
+
+- password reset
+- using user data API
+
+
+The stormpath libraries are wired as dependencies, see project/Build.scala
+
+The stormpath client is configured is a GlobalSetting object: Global.scala
+
+The API keys and application, directory ids must be stored in files in the $HOME/.stormpath/ directory.
+
